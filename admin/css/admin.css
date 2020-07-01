@@ -1,0 +1,31 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #f6eedf;
+	font-family: cursive;
+}
+#admin_login{
+	text-align: center;
+}
+#admin_login h3{
+	text-decoration: underline;
+	padding: 10px 0px;
+	margin: 20px 0px;
+}
+#adminLoginBtn a {
+	color: red;
+	text-decoration: none;
+
+}
+/*admin login page */
+/*addcoinsForm*/
+div#Page_title {
+    margin: 20px;
+    color: brown;
+    font-size: larger;
+    font-style: initial;
+    font-weight: bold;
+    /* text-decoration: dashed; */
+    -webkit-text-security: none;
+    text-decoration: underline;
+}
